@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m **John Michael Dacara**, a **Web Application Penetration Tester**.  
+I’m **John Michael Dacara**, a **anspiring Web Application Penetration Tester**.  
 I'm currently pursuing a **BS in Computer Science** at the **Polytechnic University of the Philippines**.  
 
 I specialize in identifying and exploiting web vulnerabilities to help organizations strengthen their security posture.  
