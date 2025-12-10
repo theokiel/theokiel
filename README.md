@@ -45,7 +45,8 @@ I specialize in identifying and exploiting web vulnerabilities to help organizat
 
 ### 🌐 Websites I Created
 - 🔗 [Paídia](https://paidia.vercel.app) – A web app I created in Grade 12 for research, used to assess the pronunciation of Grade 7 students at **Manuel A. Roxas High School**.  
-- 🔗 [Waste Watch](https://waste-watch-u5u8.vercel.app) – A web app I helped build for my former classmates’ Grade 12 research project. It’s a reward system related to **waste management**.  
+- 🔗 [Waste Watch](https://waste-watch-u5u8.vercel.app) – A web app I helped build for my former classmates’ Grade 12 research project. It’s a reward system related to **waste management**.
+- 🔗 [Claims](https://claims-orcin.vercel.app) - Web application for tranforming traditional distribution of Card throuh claims.
 
 ---
 ### 💻 Tech Stack (Web Development)
