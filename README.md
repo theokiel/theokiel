@@ -68,5 +68,6 @@ I specialize in identifying and exploiting web vulnerabilities to help organizat
 - 📸 Instagram: [@theokiell](https://www.instagram.com/theokiell)  
 - 📧 Email: `0dacara.johnmichael0@gmail.com`
 - Porfolio: https://theokielle.vercel.app
+- X: [@theokiell](https://x.com/theokielle)  
 
 ---
