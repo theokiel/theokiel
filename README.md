@@ -69,5 +69,6 @@ I specialize in identifying and exploiting web vulnerabilities to help organizat
 - 📧 Email: `0dacara.johnmichael0@gmail.com`
 - Porfolio: https://theokielle.vercel.app
 - X: [@theokiell](https://x.com/theokielle)  
-- Upwork: [@thoekielle](https://www.upwork.com/freelancers/~014f393839937b8f6a)
+- Upwork: [@theokielle](https://www.upwork.com/freelancers/~014f393839937b8f6a)
+- Linkedin: [@theokielle](https://www.linkedin.com/in/john-michael-dacara-28a53628a/)
 ---
