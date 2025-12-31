@@ -67,7 +67,7 @@ I specialize in identifying and exploiting web vulnerabilities to help organizat
 - 💼 LinkedIn: [John Michael Dacara](https://www.linkedin.com/in/john-michael-dacara-28a53628a)  
 - 📸 Instagram: [@theokiell](https://www.instagram.com/theokiell)  
 - 📧 Email: `0dacara.johnmichael0@gmail.com`
-- <img width="512" height="12" alt="image" src="https://github.com/user-attachments/assets/214f43eb-5ff8-4a23-8607-cbeafe6003b2" /> Porfolio: https://theokielle.vercel.app
-- <img width="12" height="12" alt="image" src="https://github.com/user-attachments/assets/05feff72-8b69-482f-9091-31f60a92c09d" /> X: [@theokiell](https://x.com/theokielle)  
+- Porfolio: https://theokielle.vercel.app
+- X: [@theokiell](https://x.com/theokielle)  
 
 ---
