@@ -12,7 +12,7 @@ I specialize in identifying and exploiting web vulnerabilities to help organizat
 - 🌱 Learning **advanced web exploitation** & **red team techniques**  
 - 🛠️ Passionate about **offensive security** and **web application testing**  
 - ⚡ Fun fact: I break things to make them stronger  
-- 📖 Life verse: *"I can do all things through Him who gives me strength."* – Philippians 4:13  
+- 📖 Life verse: *"Fixing our eyes on Jesus, the pioneer and perfecter of faith. For the joy set before Him He endured the crosss, scorning its shame, and sat down at the right hand of the throne of God"* – Hebrews 12:2  
 - 🛡️ Pentest quote: *"The only way to stop them is to think like them."* – Google  
 
 ---
