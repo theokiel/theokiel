@@ -63,13 +63,13 @@ I specialize in identifying and exploiting web vulnerabilities to help organizat
 
 
 ### 📫 Connect with Me
-- 🐙 GitHub: [theokiel](https://github.com/theokiel)  
-- 💼 LinkedIn: [John Michael Dacara](https://www.linkedin.com/in/john-michael-dacara-28a53628a)  
-- 📸 Instagram: [@theokiell](https://www.instagram.com/theokiell)  
-- 📧 Email: `0dacara.johnmichael0@gmail.com`
-- Porfolio: https://theokielle.vercel.app
-- X: [@theokiell](https://x.com/theokielle)  
-- Upwork: [@theokielle](https://www.upwork.com/freelancers/~014f393839937b8f6a)
-- Linkedin: [@theokielle](https://www.linkedin.com/in/john-michael-dacara-28a53628a/)
-- Facebook: [@theokiell](https://www.facebook.com/theokiell)
+[![GitHub](https://img.shields.io/badge/GitHub-theokiel-181717?style=for-the-badge&logo=github)](https://github.com/theokiel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-John%20Michael%20Dacara-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/john-michael-dacara-28a53628a/)
+[![Instagram](https://img.shields.io/badge/Instagram-@theokiell-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/theokiell)
+[![X](https://img.shields.io/badge/X-@theokielle-000000?style=for-the-badge&logo=x)](https://x.com/theokielle)
+[![Upwork](https://img.shields.io/badge/Upwork-theokielle-6FDA44?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~014f393839937b8f6a)
+[![Facebook](https://img.shields.io/badge/Facebook-@theokiell-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/theokiell)
+[![Portfolio](https://img.shields.io/badge/Portfolio-theokielle.vercel.app-000000?style=for-the-badge&logo=vercel)](https://theokielle.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:0dacara.johnmichael0@gmail.com)
+
 ---
