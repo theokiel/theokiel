@@ -1,4 +1,4 @@
-## Hi there 👋🤗
+## Hi there 👋
 
 I’m **John Michael Dacara**, a **anspiring Web Application Penetration Tester**.  
 I'm currently pursuing a **BS in Computer Science** at the **Polytechnic University of the Philippines**.  
