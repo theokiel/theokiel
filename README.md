@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🤗
 
 I’m **John Michael Dacara**, a **anspiring Web Application Penetration Tester**.  
 I'm currently pursuing a **BS in Computer Science** at the **Polytechnic University of the Philippines**.  
@@ -19,7 +19,7 @@ I specialize in identifying and exploiting web vulnerabilities to help organizat
 
 ### 🛡️ Skills & Tools
 - **Web Vulnerabilities**: SQLi, XSS, CSRF, SSRF, IDOR, RCE, HTTP Request Smuggling, API Testing  
-- **Tools**: Burp Suite, Nmap, Metasploit, sqlmap, Hydra  
+- **Tools**: Burp Suite, Nmap, Metasploit, sqlmap, Hydra, Nuclei
 - **Scripting**: Python, Bash  
 - **Platforms**: HackerOne, HackTheBox, TryHackMe  
   - TryHackMe: *Hacker the Rank*  
