@@ -20,7 +20,7 @@ I specialize in identifying and exploiting web vulnerabilities to help organizat
 ### 🛡️ Skills & Tools
 - **Web Vulnerabilities**: SQLi, XSS, CSRF, SSRF, IDOR, RCE, HTTP Request Smuggling, API Testing  
 - **Tools**: Burp Suite, Nmap, Metasploit, sqlmap, Hydra, Nuclei
-- **Scripting**: Python, Bash  
+- **Scripting**: Python, Bash, C  
 - **Platforms**: HackerOne, HackTheBox, TryHackMe  
   - TryHackMe: *Hacker the Rank*  
 
