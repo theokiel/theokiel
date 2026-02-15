@@ -34,8 +34,8 @@ I specialize in identifying and exploiting web vulnerabilities to help organizat
 - 🎯 Reported vulnerabilities in **private bug bounty programs**  
 - 🏆 Completed multiple HackTheBox challenges  
 - 🥇 **CTF Competitions**:  
-  - **Kaspersky CTF** → 🏆 Top 1 Philippines, Top 7 Asia  
-  - **Micro Trend CTF** → 90th / 199 (Philippines)  
+  - **Kaspersky CTF 2025** → 🏆 Top 1 Philippines, Top 7 Asia  
+  - **Micro Trend CTF 2025** → 90th / 199 (Philippines)  
   - **Nullcon HackIM CTF Berlin 2025** → 66th / 1103 teams globally  
   - **ASIS CTF 2025** → 39th / 368 teams, Rank 1 Philippines
   - **PascalCTF 2026** → 550th / 855 teams globally (duo only)
