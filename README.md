@@ -31,7 +31,6 @@ I specialize in identifying and exploiting web vulnerabilities to help organizat
 ---
 
 ### 🏆 Achievements
-- 🎯 Reported vulnerabilities in **private bug bounty programs**  
 - 🏆 Completed multiple HackTheBox challenges  
 - 🥇 **CTF Competitions**:  
   - **Kaspersky CTF 2025** → 🏆 Top 1 Philippines, Top 7 Asia  
